@@ -1,7 +1,6 @@
 ###2014-2015, WDI COURSE ASSIGNMENT
 ***
 
-
 #JavaScript Functions
 
 
