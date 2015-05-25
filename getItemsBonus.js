@@ -115,10 +115,9 @@ var getPrice = function (array, min, max) {
 	console.log("The products in your price range are: " + "\n");
 	for (var i = 0; i < newArray.length; i++){
 	console.log(newArray[i] + "\n");
-	console.log("\n");
 	}
 }
-getPrice(data.items, 450, 1000);
+getPrice(getItems(), 450, 1000);
 
 //printProducts(getPrice(data.items.product.title));
 
